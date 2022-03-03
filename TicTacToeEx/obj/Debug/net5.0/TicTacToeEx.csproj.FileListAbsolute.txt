@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.exe
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.deps.json
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.runtimeconfig.json
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.runtimeconfig.dev.json
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.dll
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\ref\TicTacToeEx.dll
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\bin\Debug\net5.0\TicTacToeEx.pdb
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.AssemblyInfo.cs
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.dll
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\ref\TicTacToeEx.dll
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.pdb
+C:\Users\HP\source\repos\TicTacToeEx\TicTacToeEx\obj\Debug\net5.0\TicTacToeEx.genruntimeconfig.cache
